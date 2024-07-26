@@ -7,8 +7,6 @@ You will see the homepage as shown in Figure 1.
 
 Figure 1: Navigate to localhost in your web browser.
 
-![image](https://github.com/samuelgjy/multilingual-speech-evaluation/readme/assets/reading/figure1.png)
-
 Step 2: Select the Desired Language
 Choose your preferred language from the language selection dropdown.
 This will set the interface and instructions to your chosen language.
